@@ -6,6 +6,9 @@ With this assignment, we shift from freestyle to deep dive, starting with a long
 ## Background Reading
 Read Chapter 3 of the textbook for additional and in-depth coverage of the material covered by this assignment.
 
+## Automated Feedback Setup
+In order to connect your repository to our automated code review and feedback system, once you are up and running please send your repository’s URL to Ed Seim. You can either find him in person in the lab, tweet him at [https://twitter.com/SirSeim](https://twitter.com/SirSeim), or mention him in a GitHub comment (`SirSeim`). Once he has you hooked up, the system will provide feedback on code formatting and quality whenever you commit a new version to GitHub. _Points will be deducted if issues here linger in the final submission._
+
 ## For Submission
 The assignment consists of three (3) sections: _Exercises_, _Programs_, and _Questions_. For each section, follow the specifications given for submitting the requested work.
 
@@ -124,3 +127,5 @@ Answer the following questions. Provide these answers in a file called _question
         b: [ "fee", "fi", { f: "o" }, "fum" ]
     };
 ```
+
+
