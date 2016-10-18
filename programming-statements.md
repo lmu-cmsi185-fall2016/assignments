@@ -25,8 +25,8 @@ Write the following programs. Provide your code in the files specified.
 
     ![Isometric Rubik's Cube](isometric-rubiks-cube.jpg)
 
-    Submit this program to this repository as _isometric-rubiks-cube.js_.
-1. Read up on how to use the `select` and `option` elements in HTML. Write a JSFiddle web page that displays a `select` dropdown menu listing ten (10) countries of your choice. When the user selects a country, have the web page display that country’s emoji flag and capital city. _Do not use an `if` statement to determine this information._
+    Submit this program to this repository as _isometric-rubiks-cube.js_. _Do *not* use 27 separate parallelogram-drawing statements._
+1. Read up on how to use the `select` and `option` elements in HTML. Write a JSFiddle web page that displays a `select` dropdown menu listing ten (10) countries of your choice. When the user selects a country, have the web page display that country’s emoji flag and capital city. _Do *not* use an `if` statement to determine this information._
 
 ### Stretch Programs
 
