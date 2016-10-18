@@ -6,6 +6,6 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 0906](http://myweb.lmu.edu/dondi/fall2016/cmsi185/cmsi185-fall2016-hw0906.pdf) Initial immersion; GitHub and YouTube account setup
 - [Assignment 0927](https://github.com/lmu-cmsi185-fall2016/assignments/blob/master/startup-freestyle-programming.md) Startup/freestyle programming
 - [Assignment 1011](https://github.com/lmu-cmsi185-fall2016/assignments/blob/master/programming-data.md) Programming data
-- Programming statements
-- Programming functions
-- One. Big. Program.
+- [Assignment 1101](https://github.com/lmu-cmsi185-fall2016/assignments/blob/master/programming-statements.md) Programming statements
+- *Assignment 1122* Programming functions
+- *Assignment 1213* One. Big. Program.
