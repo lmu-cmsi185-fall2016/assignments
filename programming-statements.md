@@ -25,14 +25,14 @@ Write the following programs. Provide your code in the files specified.
 
     ![Isometric Rubik's Cube](isometric-rubiks-cube.jpg)
 
-    Submit this program to this repository as _isometric-rubiks-cube.js_. _Do *not* use 27 separate parallelogram-drawing statements._
-1. Read up on how to use the `select` and `option` elements in HTML. Write a JSFiddle web page that displays a `select` dropdown menu listing ten (10) countries of your choice. When the user selects a country, have the web page display that country’s emoji flag and capital city. _Do *not* use an `if` statement to determine this information._
+    Submit this program to this repository as _isometric-rubiks-cube.js_. _Do **not** use 27 separate parallelogram-drawing statements._
+1. Read up on how to use the `select` and `option` elements in HTML. Write a JSFiddle web page that displays a `select` dropdown menu listing ten (10) countries of your choice. When the user selects a country, have the web page display that country’s emoji flag and capital city. _Do **not** use an `if` statement to determine this information._
 
 ### Stretch Programs
 
 Write the following programs. Provide your code in the files specified.
 
-1. Write a Khan Academy program that renders an animated “precipitation” scene of your choice. Ideas include snowflakes, raindrops, hail, a sharknado, etc. When a precipitation “particle” lands on the ground, reset it so that it starts back at the top of the screen on the next frame. Submit this program to this repository as _precipitation.js_.
+1. Write a Khan Academy program that renders an animated “precipitation” scene of your choice. Ideas include snowflakes, raindrops, hail, a sharknado, etc. Your animation should draw at least *100* such “particles.” You are free to decide how they should travel to the ground: accelerated by gravity, drifting in the breeze, etc. When a precipitation “particle” lands on the ground, reset it so that it starts back at the top of the screen on the next frame. Submit this program to this repository as _precipitation.js_.
 1. Write a “guess the number” web page game in JSFiddle. Start with having the computer choose a random integer from zero to 99. Give the web page an `input` element and a _Guess_ button. Whenever the user clicks the _Guess_ button, the program states whether the number in the `input` element is higher or lower than the target integer. Or, if the user has guessed right, the program issues an appropriately celebratory message. Reloading/rerunning the page starts the program over. Submit this program to this repository as _guess.html_ and _guess.js_. Providing _guess.css_ is encouraged but not necessary.
 
 ### Questions
