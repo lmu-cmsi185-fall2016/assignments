@@ -30,7 +30,7 @@ For all but the first exercise, copy the included _functions-template.js_ file i
 1. Write a function called `acronym` that accepts a sentence string as a parameter and returns its acronym. For example, `acronym("I know, right?")` should return `"ikr"`. Do _not_ use a loop; instead, use some combination of `map`, `filter`, and/or `reduce`. _Hint:_ Look up the functions `split` and `join`.
 1. (textbook Chapter 5 Exercise 32) Write a function called `twice` that takes a function `f` and a value `x` as its parameters and returns `f(f(x))`. For example, `twice(function (x) { return x * x; }, 3)` should return `81`.
 1. Write a constructor and prototype for a `Person` object that accepts two properties: a `fullName` (string) and a `birthdate` (`Date`). Give its prototype two functions: an `initials` function that returns the person’s full name as initials (_Hint:_ See the `acronym` function above) and an `age` function that returns the person’s age in years. When you’re done, code like this should work:
-```
+```javascript
   var p = new Person("Evan Rachel Wood", new Date(1987, 8, 7));
   alert(p.fullName);   // Should display "Evan Rachel Wood"
   alert(p.birthdate);  // Should display "Mon Sep 07 1987 00:00:00 GMT-0700 (PDT)" (time zone may vary)
